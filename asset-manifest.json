@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aae458f.chunk.css",
+    "main.js": "/static/js/main.53427d3a.chunk.js",
+    "main.js.map": "/static/js/main.53427d3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
+    "static/css/2.86cd6d42.chunk.css": "/static/css/2.86cd6d42.chunk.css",
+    "static/js/2.81b08331.chunk.js": "/static/js/2.81b08331.chunk.js",
+    "static/js/2.81b08331.chunk.js.map": "/static/js/2.81b08331.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.86cd6d42.chunk.css.map": "/static/css/2.86cd6d42.chunk.css.map",
+    "static/css/main.4aae458f.chunk.css.map": "/static/css/main.4aae458f.chunk.css.map",
+    "static/js/2.81b08331.chunk.js.LICENSE.txt": "/static/js/2.81b08331.chunk.js.LICENSE.txt",
+    "static/media/AmazonClone.75373f74.png": "/static/media/AmazonClone.75373f74.png",
+    "static/media/FastFood.b516b8a5.png": "/static/media/FastFood.b516b8a5.png",
+    "static/media/Filma24.a41d0301.png": "/static/media/Filma24.a41d0301.png",
+    "static/media/JobPortalAsp.b5afebc8.png": "/static/media/JobPortalAsp.b5afebc8.png",
+    "static/media/JobPortalVue.5579ae10.png": "/static/media/JobPortalVue.5579ae10.png",
+    "static/media/MrFisher.ec19162b.png": "/static/media/MrFisher.ec19162b.png",
+    "static/media/NetflixClone.d933ff43.png": "/static/media/NetflixClone.d933ff43.png",
+    "static/media/RelaxRestaurant.0a58d6b7.png": "/static/media/RelaxRestaurant.0a58d6b7.png",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/static/media/avatar.7f806e40.svg",
+    "static/media/style.css": "/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/static/media/home-main.359935c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd7dc15.js",
+    "static/css/2.86cd6d42.chunk.css",
+    "static/js/2.81b08331.chunk.js",
+    "static/css/main.4aae458f.chunk.css",
+    "static/js/main.53427d3a.chunk.js"
+  ]
+}
